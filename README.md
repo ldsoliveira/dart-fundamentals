@@ -1,0 +1,1 @@
+Dart fundamental knowledge acquired in Academia do Flutter course. Here are stored basic variables, condicionals and loop structures for dart lang.
