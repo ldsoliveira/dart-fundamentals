@@ -1,5 +1,6 @@
 // ignore_for_file: unused_local_variable
 void main() {
+
   /// [final] is immutable. Use it whenever possible.
   final name1 = 'Lucas Oliveira';
   final age1 = 22;
@@ -8,4 +9,5 @@ void main() {
   /// constant value on compile time.
   const name2 = 'Rodrigo Rahman';
   const age2 = 37;
+  
 }
