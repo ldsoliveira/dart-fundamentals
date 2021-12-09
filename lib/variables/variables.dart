@@ -20,7 +20,8 @@ void main() {
   anyType = 'string';
   anyType = 5.5;
 
-  /// === nullSafety ===
+  // ? === Null-safety === ?
+  
   String? name = null;
 
   if(name != null) {
